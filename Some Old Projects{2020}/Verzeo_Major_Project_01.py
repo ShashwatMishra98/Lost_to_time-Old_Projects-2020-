@@ -268,14 +268,3 @@ print(preds_test)
 df_output = pd.DataFrame({'Price': preds_test})
 df_output.to_excel('submission.xlsx', index=False)
 df_output.head()
-
-
-# Team Verzeo,
-# 
-# Thank You for taking the time to teach us the very basics of Data Science and Machine Learning.
-# In the making of this particular project I had to visit google for various substitute ways for implementing the usual methods as they took a lot of time and also had to copy-paste few bits here and there (not going to lie , I never heard of "xgboost").
-# 
-# In the end I got to complete the project with knowing many ways to save time and how things actually work in the feild.
-# Thank You again.
-# 
-# 
